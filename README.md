@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saheer07/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/saheer07/leetcode/tree/master/0088-merge-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/saheer07/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saheer07/leetcode/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/saheer07/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
