@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saheer07/leetcode/tree/master/0100-same-tree) |
+## String
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/saheer07/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/saheer07/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
