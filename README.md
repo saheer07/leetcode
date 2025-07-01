@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saheer07/leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/saheer07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/saheer07/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3617-find-the-original-typed-string-i](https://github.com/saheer07/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
