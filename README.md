@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saheer07/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/saheer07/leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/saheer07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saheer07/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/saheer07/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/saheer07/leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/saheer07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saheer07/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/saheer07/leetcode/tree/master/0013-roman-to-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saheer07/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
