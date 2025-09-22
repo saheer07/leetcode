@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/saheer07/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/saheer07/leetcode/tree/master/0088-merge-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/saheer07/leetcode/tree/master/2058-concatenation-of-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saheer07/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saheer07/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/saheer07/leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/saheer07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saheer07/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saheer07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/saheer07/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
