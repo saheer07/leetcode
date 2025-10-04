@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/saheer07/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/saheer07/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/saheer07/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/saheer07/leetcode/tree/master/0268-missing-number) |
 | [2058-concatenation-of-array](https://github.com/saheer07/leetcode/tree/master/2058-concatenation-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saheer07/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saheer07/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/saheer07/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/saheer07/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/saheer07/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saheer07/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saheer07/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/saheer07/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saheer07/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/saheer07/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/saheer07/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saheer07/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/saheer07/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/saheer07/leetcode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saheer07/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -101,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/saheer07/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/saheer07/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
